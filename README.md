@@ -3,6 +3,14 @@ CONTRAIL-BLACK gnome shell theme
 
 This is a modification of Padster's gnome shell theme [contrail][contrail-deviantart].
 
+
+# install
+This version has only been tested under gnome shell 3.4. Put the Contrail-black dir in this repo under ~/.themes/ (only your current user will have it).
+
+
+
+
+
 # License
 As the original work from Padster, it's under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 License][cc].
 
