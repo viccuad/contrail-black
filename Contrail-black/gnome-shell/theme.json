@@ -1,0 +1,11 @@
+{
+   "shell-theme": {
+       "name": "Contrail-black",
+       "author": "Padster(modified by viccuad)",
+       "version": "1.0",
+       "type": "custom",
+       "disabled": false,
+       "thumbnail": "preview-contrail-black.jpg",
+       "url": "http://github.com/viccuad/contrail-black"
+   }
+}

@@ -1,0 +1,12 @@
+Contrail (http://therealpadster.deviantart.com/art/Contrail-313169671) is a minimal theme based on Tobias Bernard's minimal GTK theme mockup, found here: http://tobias.bluestain.net/floss/minimal-gtk-theme/
+
+Try the Contrail Metacity theme, too! http://therealpadster.deviantart.com/art/Contrail-Metacity-313217824 (works with Mutter)
+
+Thanks to Andrew King (http://www.deviantart.com/users/outgoing?https://plus.google.com/u/0/113668134679456528240) for suggesting the name!
+
+Known bugs:
+-When using the Activities hot-corner, it often stays in the hover state when switching back to the desktop. This is a problem with GNOME-Shell itself. 
+
+Changelog:
+1.0: 
+-initial release
