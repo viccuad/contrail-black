@@ -335,7 +335,7 @@ StScrollBar StButton#hhandle:hover
 
 .panel-button {
     border: 1px transparent;/*need to keep this for the border under to work properly*/
-    -natural-hpadding: 12px;
+    -natural-hpadding: 6px;
     -minimum-hpadding: 6px;
     font-weight: bold;
     color: white;/*panel-text-colour*/
