@@ -4,7 +4,7 @@ CONTRAIL-BLACK gnome shell theme
 This is a modification of Padster's gnome shell theme [contrail][contrail-deviantart].
 
 
-![preview](https://github.com/viccuad/contrail-black/raw/master/Contrail-black/gnome-shell/preview-contrail-black.jpg)
+![preview](https://github.com/viccuad/contrail-black/raw/master/Contrail-black/gnome-shell/preview-contrail-black.png)
 
 
 
