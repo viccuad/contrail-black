@@ -267,7 +267,7 @@ StScrollBar StButton#hhandle:hover
     color: white;
     background-color: black;
     border: 0px;
-    font-size: 10.5pt;
+    font-size: 10pt;
     font-weight: bold;
     height: 1.80em;
 }
@@ -461,7 +461,7 @@ StScrollBar StButton#hhandle:hover
     spacing: 12px;
     /*in 3.2 no longer works properly*/
     /*now it automatically does a certain dimming and this just goes on top*/
-    background-color: rgba(0,0,0,0);
+    /*background-color: rgba(0,0,0,0);*/
 }
 
 .workspace-controls {
@@ -501,6 +501,7 @@ StScrollBar StButton#hhandle:hover
     padding: 2px 8px;
     -shell-caption-spacing: 4px;
 }
+
 
 .window-close {
     background-image: url("assets/close-window.svg");
@@ -572,7 +573,7 @@ StScrollBar StButton#hhandle:hover
 #searchEntry {
     padding: 4px 12px;
     border-radius: 17px;
-    font-size: 12pt;
+    font-size: 10pt;
     color: rgba(0,0,0,0);
     border: 2px solid rgba(0,0,0,0);
     background-gradient-start: rgba(0,0,0,0);
@@ -620,6 +621,7 @@ StScrollBar StButton#hhandle:hover
     background-color: rgba(0,0,0,0);
     color: #666;
     font-weight: bold;
+    font-size: 10pt;
     padding: 4px 20px;
     height: 1.5em;
     transition-duration: 150;
@@ -1282,7 +1284,7 @@ StScrollBar StButton#hhandle:hover
     border-radius: 0px;
     background-color: #eee;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.1);
-    font-size: 11pt;
+    font-size: 10pt;
     border: 0px;
     color: #666;
     padding: 8px 8px 4px 8px;
@@ -2088,7 +2090,7 @@ StScrollBar StButton#hhandle:hover
 }
 
 .prompt-dialog-headline { /*(Authentication Required)*/
-    font-size: 12pt;
+    font-size: 10pt;
     font-weight: bold;
     color: #3d3d3d;
 }
